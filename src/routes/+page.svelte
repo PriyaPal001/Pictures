@@ -1,3 +1,6 @@
+<svelte:head>
+        <title>Poppy</title>
+</svelte:head>
 <div class="imageGrid">
     <img src="https://i.pinimg.com/564x/92/2a/76/922a76037e1a7b44f1213a802d93f532.jpg" alt="">
     <img src="https://i.pinimg.com/474x/cb/e6/11/cbe6116a6fbf27478640995ca7e5761b.jpg" alt="">
